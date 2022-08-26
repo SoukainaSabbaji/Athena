@@ -137,6 +137,14 @@ The books found here are not really categorized and can be everything under the 
 | [**APPRENDRE 3.0**](https://www.amazon.com/Apprendre-3-0-linventeur-p%C3%A9dagogie-Epitech/dp/2412047995) | a book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
 | [**The Mythical Man-Month**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?keywords=the+mythical+man-month&qid=1660996124&s=books&sprefix=the+mythical+%2Cstripbooks-intl-ship%2C152&sr=1-1) | Essays on Software Engineering and project management |
 
+
+## **- Computer Graphics**
+Computer graphics (scary?).
+
+| Book | Description |
+| ---- | ----------- |
+| [**Physically Based Rendering: From Theory to Implementation**](https://www.pbr-book.org/)  | Physically Based Rendering: From Theory to Implementation, describes both the mathematical theory behind a modern photorealistic rendering system and its practical implementation. Through a method known as 'literate programming', the authors combine human-readable documentation and source code into a single reference that is specifically designed to aid comprehension. The result is a stunning achievement in graphics education.|
+
 ***
 ## Where is the X book
 May the strength of Ares and wisdom of Athena see you through,
